@@ -1,0 +1,4 @@
+Test,S1,S2,Raw_Sim (Words),Trained_Sim (Logic)
+De Morgan (Same),NOT (X AND Y),(NOT X OR NOT Y),0.8490173,0.1230707620849575
+Negation (Opposite),(X AND Y),NOT (X AND Y),0.787072,0.08656432480840415
+Commutativity,(X XOR Y),(Y XOR X),0.9726932,0.32046887448165395

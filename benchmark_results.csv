@@ -1,0 +1,10 @@
+Exp,Detail,Sim
+Var_Invariance,(X AND Y) vs (Y AND X),0.25474864678386444
+Op_Generalization,(A XOR B) vs (B XOR A),0.23286273375914035
+Complexity_Scaling,Depth_1,0.9986208368096536
+Complexity_Scaling,Depth_2,0.9986208368096536
+Complexity_Scaling,Depth_3,0.9986208368096536
+Complexity_Scaling,Depth_4,0.9986208368096536
+Complexity_Scaling,Depth_5,0.9986208368096536
+Entailment,P AND Q -> P,0.14616149332905126
+Contradiction,P AND Q -> NOT P,0.08780783795423655

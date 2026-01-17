@@ -1,0 +1,5 @@
+Experiment,Detail,Raw_Sim,Trained_Sim
+Commutativity,(X AND Y) vs (Y AND X),0.945703,0.14170910142331983
+Identity,NOT (X OR Y) vs NOT (X OR Y),1.0,0.9986208368096536
+Contradiction,(X OR Y) vs NOT (X OR Y),0.7732031,0.11027129188519955
+Entailment,(X AND Y) vs X,0.3031343,0.10508217110787464
