@@ -52,8 +52,15 @@ Our findings suggests that logical reasoning is not merely a linguistic task, bu
 *   **🧠 Beyond Pattern Memorization**: Success on unseen variables (`V70-V99`) effectively rules out the "Memorization Hypothesis," proving that the system has learned the universal *Rules of Logic* rather than just memorizing prompt structures.
 *   **📉 The Necessity of Curvature**: Our discovery of the **Curvature Threshold** at Depth 5 proves that Euclidean space is mathematically incapable of modeling high-complexity reasoning. Curvature is not a feature; it is a requirement for modeling the exponential growth of logical trees.
 
-## 🔮 The Vision: Beyond Logic
-This project introduces a modular paradigm for AI safety: **Intelligence Filtering**. Instead of building larger models to reduce hallucinations, we can build specialized **Geometric Filters** for:
+## 🔮 The Vision: The Geometric Intelligence Hypothesis
+
+This project introduces a new paradigm for AI safety and architecture: **Geometric Matching**. We hypothesize that "intelligence" is not a monolithic structure, but a collection of manifolds with varying curvatures:
+
+*   **📐 Euclidean Space**: Optimal for flat, associative data (simple facts, list retrieval).
+*   **🌀 Hyperbolic Space**: Required for hierarchical, recursive structures (formal logic, biological taxonomies, language syntax).
+*   **🌐 Spherical Space**: Potentially optimal for cyclic or periodic intelligence (seasonal patterns, algorithmic loops).
+
+Instead of forcing all AI reasoning into a single "black box" vector space, we can build specialized **Geometric Filters** for:
 *   **Causal Inference**: Mapping causality as directional geodesics.
 *   **Mathematical Constants**: Anchoring numeric stability in non-Euclidean latent spaces.
 *   **Temporal Logic**: Representing time as a structured manifold expansion.
